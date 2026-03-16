@@ -1,9 +1,9 @@
 <?php
 
-define("DB_SERVER", "sql304.iceiy.com"); 
-define("DB_USERNAME", "icei_41317228");
-define("DB_PASSWORD", "Umidjon2011");
-define("DB_NAME","icei_41317228_makerbot");
+define("DB_SERVER", "mysql-techfox.alwaysdata.net"); 
+define("DB_USERNAME", "techfox");
+define("DB_PASSWORD", "@umidjon2011");
+define("DB_NAME","techfox_makerbot");
 
 $connect = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);
 mysqli_set_charset($connect, "utf8mb4");
