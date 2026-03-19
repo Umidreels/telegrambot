@@ -10,7 +10,7 @@ Manba: @AlijonovUz
 Har doimgiday manba bilan olamiz ( choparlar ).
 */
 
-define("umidjon_mamadjanov",'7968049629:AAHf7B6u4NcduuPI4dsmdYbLUnNAGTq16c8');
+define("AlijonovUz",'7968049629:AAHf7B6u4NcduuPI4dsmdYbLUnNAGTq16c8');
 $AlijonovUz = "6638933576";
 $earnbot = "Professional_Makerbot";
 $admins = file_get_contents("tizim/admins.txt");
